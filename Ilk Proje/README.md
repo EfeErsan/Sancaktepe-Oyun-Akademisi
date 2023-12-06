@@ -1,3 +1,6 @@
 # Sancaktepe Akademisi İlk Projem
 
-![İlk Projem](images/Ilk Projem)
+### Bu projede ...
+
+
+! [İlk Projem](images/Ilk Projem)
