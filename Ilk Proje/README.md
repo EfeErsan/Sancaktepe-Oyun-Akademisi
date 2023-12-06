@@ -3,4 +3,4 @@
 ### Bu projede ...
 
 
-! [İlk Projem](images/Ilk Projem)
+! [İlk Projem](images/Ilk Projem.png)
