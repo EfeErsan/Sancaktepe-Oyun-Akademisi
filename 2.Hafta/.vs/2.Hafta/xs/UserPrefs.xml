@@ -1,14 +1,14 @@
 ﻿<Properties StartupConfiguration="{427824F5-0B26-62C4-D365-6761E57DA053}|">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="94c8f14b-9644-45f7-8bb3-44e5ae9bb944" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Değişkenler.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/2.hafta.cs">
     <Files>
-      <File FileName="Assets/Scripts/Değişkenler.cs" Line="10" Column="5" />
+      <File FileName="Assets/Scripts/2.hafta.cs" Line="60" Column="6" />
     </Files>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e0801f21-ba23-4286-9447-464bf305076b" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>
