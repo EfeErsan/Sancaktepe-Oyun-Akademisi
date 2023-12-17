@@ -6,4 +6,4 @@
 
 ### 2.Hafta - Bu proje belirli aralıklardaki sayıları işleyen ve bu sayıları belirli bir sayıya bölüp bölünemediklerini kontrol eden bir programı temsil ediyor.
 
-![Ilk Projem]([https://github.com/EfeErsan/Sancaktepe-Oyun-Akedemisi/blob/main/Ilk%20Proje/images/](https://github.com/EfeErsan/Sancaktepe-Oyun-Akademisi/tree/main/2.Hafta/images)https://github.com/EfeErsan/Sancaktepe-Oyun-Akademisi/tree/main/2.Hafta/images)
+![Ilk Projem]([[https://github.com/EfeErsan/Sancaktepe-Oyun-Akedemisi/blob/main/Ilk%20Proje/images/](https://github.com/EfeErsan/Sancaktepe-Oyun-Akademisi/tree/main/2.Hafta/images)https://github.com/EfeErsan/Sancaktepe-Oyun-Akademisi/tree/main/2.Hafta/images](https://github.com/EfeErsan/Sancaktepe-Oyun-Akademisi/blob/main/2.Hafta/images/Ekran%20Resmi%202023-12-17%2018.18.42.png)https://github.com/EfeErsan/Sancaktepe-Oyun-Akademisi/blob/main/2.Hafta/images/Ekran%20Resmi%202023-12-17%2018.18.42.png)
