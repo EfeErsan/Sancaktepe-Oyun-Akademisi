@@ -4,6 +4,6 @@
 
 ![Ilk Projem](https://github.com/EfeErsan/Sancaktepe-Oyun-Akedemisi/blob/main/Ilk%20Proje/images/Ilk%20Projem.png)
 
-### 2.Hafta - Bu proje belirli aralıklardaki sayıları işleyen ve bu sayıları belirli bir sayıya bölüp bölünemediklerini kontrol eden bir programı temsil ediyor.
+### 2.Hafta - Bu proje C# kullanarak belirli aralıklardaki sayıları işleyen ve bu sayıları belirli bir sayıya bölüp bölünemediklerini kontrol eden bir programı temsil ediyor.
 
 ![Ilk Projem](https://github.com/EfeErsan/Sancaktepe-Oyun-Akademisi/blob/main/2.Hafta/images/Ekran%20Resmi%202023-12-17%2018.18.42.png?raw=true)
